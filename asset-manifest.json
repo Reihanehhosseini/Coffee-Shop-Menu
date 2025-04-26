@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Coffee-Shop-Menu.git/static/css/main.a9897b20.css",
-    "main.js": "/Coffee-Shop-Menu.git/static/js/main.e40cc125.js",
-    "static/js/453.7a274f46.chunk.js": "/Coffee-Shop-Menu.git/static/js/453.7a274f46.chunk.js",
-    "static/media/bg-01.jpg": "/Coffee-Shop-Menu.git/static/media/bg-01.768be0ecd8c88a590d18.jpg",
-    "static/media/RedHatText-Medium.woff": "/Coffee-Shop-Menu.git/static/media/RedHatText-Medium.2db872023458f2278439.woff",
-    "static/media/RedHatText-Regular.woff": "/Coffee-Shop-Menu.git/static/media/RedHatText-Regular.afa59091e99fa482c2ac.woff",
-    "static/media/RedHatText-Bold.woff": "/Coffee-Shop-Menu.git/static/media/RedHatText-Bold.77b110ed46ced2dca352.woff",
-    "static/media/RedHatText-Light.woff": "/Coffee-Shop-Menu.git/static/media/RedHatText-Light.718593647f8205d4e3d8.woff",
-    "index.html": "/Coffee-Shop-Menu.git/index.html",
-    "main.a9897b20.css.map": "/Coffee-Shop-Menu.git/static/css/main.a9897b20.css.map",
-    "main.e40cc125.js.map": "/Coffee-Shop-Menu.git/static/js/main.e40cc125.js.map",
-    "453.7a274f46.chunk.js.map": "/Coffee-Shop-Menu.git/static/js/453.7a274f46.chunk.js.map"
+    "main.css": "/Coffee-Shop-Menu/static/css/main.049d53cc.css",
+    "main.js": "/Coffee-Shop-Menu/static/js/main.b54e8f8f.js",
+    "static/js/453.7a274f46.chunk.js": "/Coffee-Shop-Menu/static/js/453.7a274f46.chunk.js",
+    "static/media/bg-01.jpg": "/Coffee-Shop-Menu/static/media/bg-01.768be0ecd8c88a590d18.jpg",
+    "static/media/RedHatText-Medium.woff": "/Coffee-Shop-Menu/static/media/RedHatText-Medium.2db872023458f2278439.woff",
+    "static/media/RedHatText-Regular.woff": "/Coffee-Shop-Menu/static/media/RedHatText-Regular.afa59091e99fa482c2ac.woff",
+    "static/media/RedHatText-Bold.woff": "/Coffee-Shop-Menu/static/media/RedHatText-Bold.77b110ed46ced2dca352.woff",
+    "static/media/RedHatText-Light.woff": "/Coffee-Shop-Menu/static/media/RedHatText-Light.718593647f8205d4e3d8.woff",
+    "index.html": "/Coffee-Shop-Menu/index.html",
+    "main.049d53cc.css.map": "/Coffee-Shop-Menu/static/css/main.049d53cc.css.map",
+    "main.b54e8f8f.js.map": "/Coffee-Shop-Menu/static/js/main.b54e8f8f.js.map",
+    "453.7a274f46.chunk.js.map": "/Coffee-Shop-Menu/static/js/453.7a274f46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9897b20.css",
-    "static/js/main.e40cc125.js"
+    "static/css/main.049d53cc.css",
+    "static/js/main.b54e8f8f.js"
   ]
 }
