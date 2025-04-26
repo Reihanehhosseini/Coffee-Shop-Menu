@@ -1,38 +1,37 @@
+@font-face {
+  font-family: "RedHatText-Bold";
+  src: url("../public/font/RedHatText-Bold.woff");
+}
+@font-face {
+  font-family: "RedHatText-Light";
+  src: url("../public/font/RedHatText-Light.woff");
+}
+@font-face {
+  font-family: "RedHatText-Medium";
+  src: url("../public/font/RedHatText-Medium.woff");
+}
+@font-face {
+  font-family: "RedHatText-Regular";
+  src: url("../public/font/RedHatText-Regular.woff");
+}
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.App section{
+  flex: 2;
+  padding: 40px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media screen and (max-width:905px) {
+  .App section{
+    padding: 40px 20px;
   }
 }
+@media screen and (max-width:669px) {
+  .App section{
+    flex:1
+  }
+  
+}
+
+

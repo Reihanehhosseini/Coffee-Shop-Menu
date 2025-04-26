@@ -1,0 +1,90 @@
+.Header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.desserts {
+  font-family: "RedHatText-Bold";
+  font-weight: 700;
+  font-size: 24px;
+}
+.Header svg {
+  width: 35px;
+  height: 35px;
+}
+.shoppingIcon {
+  display: flex;
+  align-items: center;
+  font-family: "RedHatText-Medium";
+  font-size: 13px;
+  font-weight: 700;
+}
+.shoppingIcon span {
+  width: 30px;
+  height: 30px;
+  background-color: #c73a0f;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translate(-14px, -13px);
+  -webkit-transform: translate(-14px, -13px);
+  -moz-transform: translate(-14px, -13px);
+  -ms-transform: translate(-14px, -13px);
+  -o-transform: translate(-14px, -13px);
+}
+@media screen and (max-width: 992px) {
+  .desserts {
+    font-family: "RedHatText-Medium";
+    font-size: 20px;
+  }
+  .Header svg {
+    width: 29px;
+    height: 29px;
+  }
+  .shoppingIcon span {
+    width: 25px;
+    height: 25px;
+  }
+  .shoppingIcon {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 775px) {
+  .desserts {
+    font-family: "RedHatText-Medium";
+    font-size: 18px;
+  }
+  .Header svg {
+    width: 25px;
+    height: 25px;
+  }
+  .shoppingIcon span {
+    width: 23px;
+    height: 23px;
+  }
+  .shoppingIcon {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .desserts {
+    font-size: 16.5px;
+  }
+  .Header svg {
+    width: 22px;
+    height: 22px;
+  }
+  .shoppingIcon span {
+    width: 20px;
+    height: 20px;
+  }
+  .shoppingIcon {
+    font-size: 8.5px;
+  }
+}
